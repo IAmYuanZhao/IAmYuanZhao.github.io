@@ -7,15 +7,10 @@
 
 ### 🏠 [Homepage](https://osalien.github.io)
 
-## Install
-
-```sh
-npm install
-```
 
 ## Author
 
-👤 **yuanzhao&lt;osalien@qq.com&gt;**
+👤 **yuanzhao &lt;osalien@qq.com&gt;**
 
 * Github: [@osalien](https://github.com/osalien)
 
